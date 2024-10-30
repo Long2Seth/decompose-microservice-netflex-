@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/authorization-service" />
+        <option name="gradleJvm" value="graalvm-jdk-21" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/authorization-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/content-discovery-service" />
+        <option name="gradleJvm" value="graalvm-jdk-21" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/content-discovery-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/delivery-network-service" />
+        <option name="gradleJvm" value="graalvm-jdk-21" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/delivery-network-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/history-service" />
+        <option name="gradleJvm" value="graalvm-jdk-21" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/history-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/language-service" />
+        <option name="gradleJvm" value="graalvm-jdk-21" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/language-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/notifications-service" />
+        <option name="gradleJvm" value="graalvm-jdk-21" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/notifications-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/payment-service" />
+        <option name="gradleJvm" value="graalvm-jdk-21" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/payment-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/playback-service" />
+        <option name="gradleJvm" value="graalvm-jdk-21" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/playback-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/recommendation-service" />
+        <option name="gradleJvm" value="graalvm-jdk-21" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/recommendation-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/search-service" />
+        <option name="gradleJvm" value="graalvm-jdk-21" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/search-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/session-management-service" />
+        <option name="gradleJvm" value="graalvm-jdk-21" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/session-management-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/user-service" />
+        <option name="gradleJvm" value="graalvm-jdk-21" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/user-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/video-service" />
+        <option name="gradleJvm" value="graalvm-jdk-21" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/video-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
